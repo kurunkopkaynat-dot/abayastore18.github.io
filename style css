@@ -1,0 +1,38 @@
+/* GENERAL BODY STYLING */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fffaf6;
+  color: #5a2a3c;
+  text-align: center;
+}
+
+/* HEADER STYLING */
+header {
+  background: linear-gradient(135deg, #f7c6d3, #fff1e0);
+  padding: 50px 20px;
+  border-bottom: 2px solid #f9d1b7;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 42px;
+  letter-spacing: 1px;
+  color: #c34e6c;
+}
+
+header p {
+  margin: 10px 0 20px;
+  font-size: 20px;
+  color: #a13b5c;
+}
+
+.insta {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.insta a {
+  color: #c34e6c;
+  text-decoration: none;
+  font-weight: bold;
